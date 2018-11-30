@@ -10,6 +10,7 @@
       <change beforePath="$PROJECT_DIR$/.project" beforeDir="false" afterPath="$PROJECT_DIR$/.project" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/appproperties.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/appproperties.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../my-config-server/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../my-config-server/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../my-config-server/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../my-config-server/src/main/resources/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../my-config-server/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../my-config-server/target/classes/application.yml" afterDir="false" />
