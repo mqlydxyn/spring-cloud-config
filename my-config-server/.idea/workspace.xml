@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="00ab6c08-bb64-47e9-a503-28a05d539934" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../my-config-client/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../my-sample-config/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my-config-client/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../my-config-client/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my-config-client/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../my-config-client/.project" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my-config-client/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../my-config-client/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my-config-client/src/main/resources/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../my-config-client/src/main/resources/bootstrap.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my-sample-config/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../my-sample-config/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my-sample-config/my-client-uat.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../my-sample-config/my-client-uat.yml" afterDir="false" />
-    </list>
+    <list default="true" id="00ab6c08-bb64-47e9-a503-28a05d539934" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -158,7 +145,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543554678912" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543554750860" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -206,7 +193,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="52" y="163" width="1123" height="932" extended-state="0" />
+    <frame x="52" y="163" width="1123" height="932" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2765757" />
